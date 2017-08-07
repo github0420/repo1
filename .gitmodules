@@ -1,0 +1,3 @@
+[submodule "submodule/formac"]
+	path = submodule/formac
+	url = https://github.com/github0420/repo3.git
